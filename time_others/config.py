@@ -200,7 +200,6 @@ this_mode = Randomizemode()
 # ]
 # ]
 data = [
-#[{'mode': 'probability', 'a_x': 70, 'a_y': 10, 'b_x': 10, 'b_y': 80, 'label': {'x': 'Tus fichas', 'y': "Las fichas de tu compañero"}}],
 [
 {'mode': 'sec_ownrisk', 'prob_a': 100, 'm': 40, 'p_y': 0.6, 'p_x': 1, 'label': {'x': 'Tareas a completar hoy', 'y': 'Tareas a completar en la siguiente semana'}, 'bloque': 'self', 'numero': 1}, #bloque 1
 {'mode': 'sec_ownrisk', 'prob_a': 100, 'm': 50, 'p_y': 1, 'p_x': 1, 'label': {'x': 'Tareas a completar hoy', 'y': 'Tareas a completar en la siguiente semana'}, 'bloque': 'self', 'numero': 1}, #bloque 1
